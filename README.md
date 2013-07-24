@@ -11,7 +11,7 @@ With Meteor you write apps:
 
 Documentation is available at http://docs.meteor.com/
 
-## Quick Start
+## Quick Startj
 
 Install Meteor:
 
