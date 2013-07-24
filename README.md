@@ -84,5 +84,5 @@ Building an application with Meteor?
 
 Interested in contributing to Meteor?
 
-* Core framework design mailing list: https://groups.google.com/group/meteor-corea
+* Core framework design mailing list: https://groups.google.com/group/meteor-core
 * Contribution guidelines: https://github.com/meteor/meteor/tree/devel/Contributing.md
